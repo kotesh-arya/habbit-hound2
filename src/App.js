@@ -3,7 +3,6 @@ import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import { SignIn } from "./Pages/Signin";
 import { SignUp } from "./Pages/Signup";
-import { RequiresAuth } from "./RequiresAuth";
 import { Home } from "./Pages/Home";
 import { Labels } from "./Pages/Labels";
 import { Archive } from "./Pages/Archive";
