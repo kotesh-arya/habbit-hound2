@@ -1,70 +1,59 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"> <br>
+  <a href="https://habbit-hound.netlify.app/" target="_blank"><img src="https://img.icons8.com/external-basicons-solid-edtgraphics/300/228BE6/external-animal-animals-basicons-solid-edtgraphics-7.png" alt="Habit Hound Logo" width="200"></a>
+  <br>
+Habit Hound
+  <br></h1>
 
-## Available Scripts
+<h4 align="center">Habit Tracker Web Application</h4>
 
-In the project directory, you can run:
 
-### `yarn start`
+## About Habit Hound
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Habit-hound is a Habit tracker web App where you can Add, Modify and Delete your Habits and stay accountable to yourself.
+- In this App, users can Signup/Login into their own account with right credentials and get updated with their personal Habits, track them.
+- Additionally we have implemented various main features such as Labels for categorising habits and Archieve for storing/saving a particular habit for future etc.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Live Deployment
 
-### `yarn test`
+### Checkout the live deployment here:  <a href="https://habbit-hound.netlify.app/" target="_blank">Habit Hound</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+![image](https://user-images.githubusercontent.com/69259490/210179195-e8581123-3f03-4594-b462-74d7a85891ea.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Home Page (public page), with navigation bar, header image, and various Habits created by user. User can easily navigate to a particular habit they want and can easily Edit, Modify and Delete it.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tech Stack and Tools
 
-Insteaontrol over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* CHAKRA-UI for components and styling.
+* React JS
+* React Router v6
+* React Context API + useReducer
+* Backend setup using <a href="https://mockbee.netlify.app/" traget="_blank">MockBee</a>
+* Used Async Await and Axios for API Request Calls.
+* Netlify for Deployment
+* React Toastify for alerts.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Issues & Suggestions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* If you face any issues while using the app, then you can surely raise issue on this repo.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* You can also give your valuable suggestions/ feedback to improve this project via Twitter DM.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Connect with me:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<a href="https://twitter.com/Codesh_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://github.com/kotesh-arya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
